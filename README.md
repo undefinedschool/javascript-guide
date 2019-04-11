@@ -16,7 +16,7 @@ En este curso vamos a utilizar principalmente la versión conocida como **ES6/ES
 
 JavaScript es un lenguaje de programación _[dinámico](https://en.wikipedia.org/wiki/Dynamic_programming_language)_, _[multi-paradigma](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm)_ y de _[alto nivel](https://en.wikipedia.org/wiki/High-level_programming_language)_.
 
-## [The JS Way: capítulo 1](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md)
+## The JS Way: [capítulo 1](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md)
 
 ### Mostrando mensajes en pantalla
 
@@ -60,6 +60,10 @@ Utilizamos el tipo **number** para representar valores numéricos, sin distingui
 1/3
 ```
 
+#### Ejercicio
+
+[number](http://www.asmarterwaytolearn.com/js/3.html)
+
 #### String
 
 Representa valores de texto, conocidos como _cadenas de caracteres_. Se escriben entre comillas simples o dobles, sin mezclar.
@@ -75,6 +79,10 @@ Si queremos _unir_ diferentes strings, utilizamos una operación que se llama _c
 **Ejemplo:** 
 
 ```'Java' + 'Script' => 'JavaScript'```
+
+#### Ejercicio
+
+[string](http://www.asmarterwaytolearn.com/js/2.html)
 
 ### Estructura de un programa
 
@@ -114,10 +122,16 @@ Cuando se ejecuta un programa, las instrucciones que forman parte del código fu
 
 #### Comentarios
 
+Son líneas de código que **no se ejecutan**.
+
 Como referencia, leer la sección sobre comentarios en el artículo _[The Exceptional Beauty of Doom 3's Source Code](https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610)_.
 
-### Ejercicios
+> ✨ Si estamos escribiendo muchos comentarios, tomarlo como señal de que tal vez nuestro código no sea lo suficientemente claro
 
-[string](http://www.asmarterwaytolearn.com/js/2.html)   
-[number](http://www.asmarterwaytolearn.com/js/3.html)  
+### 🚀 [Coding time!](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md#coding-time)
+
+---
+
+## The JS Way: [capítulo 2](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md)
+
 [nombres de variables](http://www.asmarterwaytolearn.com/js/4.html)  
