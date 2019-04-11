@@ -116,9 +116,15 @@ Las instrucciones están compuestas de 1 o más _expresiones_. Una expresión es
 - `b * 2` es una expresión aritmética, que significa multiplicar el valor de `b`por 2
 - `a = b * 2` es una expresión de asignación, que significa asignarle el valor resultante de la expresión `b * 2` a la variable `a`.
 
+#### Operadores
+
+Un operador es un _símbolo_ que le dice al compilador/intérprete que ejecute cierta operación aritmética o lógica y produzca un resultado.
+
+Es importante tener en claro que los operadores, igual que en las matemáticas, siguen un [orden de evaluación](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence).
+
 #### Flujo de ejecución
 
-Cuando se ejecuta un programa, las instrucciones que forman parte del código fuente del mismo son ejecutadas una tras otra.
+Cuando se ejecuta un programa, las instrucciones que forman parte del código fuente del mismo son _ejecutadas_ una tras otra. Para esto, el _engine_ (el cual utilizamos a través de nuestro _browser_ o de Node) primero debe traducir el código fuente escrito en JavaScript a _código máquina_, es decir, código que entiende y puede ejecutar la computadora. Este proceso lo lleva a cabo el compilador/intérprete.
 
 #### Comentarios
 
@@ -134,4 +140,16 @@ Como referencia, leer la sección sobre comentarios en el artículo _[The Except
 
 ## The JS Way: [capítulo 2](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md)
 
+### Variables
+
+Un programa almacena información utilizando _variables_. Una variable es un espacio que reservamos en la _memoria RAM_ y la identificamos con un nombre (por eso conocido como _identificador_). Luego de crear una variable y almacenar un valor en ella, podremos acceder y operar con este valor usando directamente el nombre de la variable.
+
+### Tipado dinámico
+
+En JavaScript, el **tipo** no está definido en la variable, sino en el **valor**. Es por esto que se trata de un lenguaje de programación _dinámico_. 
+
+#### Ejercicio
+
 [nombres de variables](http://www.asmarterwaytolearn.com/js/4.html)  
+
+> ✨ Utilizar nombres de variables lo más descriptivos posibles
