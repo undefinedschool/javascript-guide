@@ -46,14 +46,12 @@ Si te sumás, te agradecemos que nos sigas en [Twitter](https://twitter.com/unde
 
 ---
 
-## **tl;dr**
-
-Es un lenguaje de programación _dinámico_, creado en 1995 por [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) y estandarizado bajo el nombre de [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript), que utilizamos para desarrollar aplicaciones (no sólo web).
-
 ## Intro
+
+**JavaScript** es un lenguaje de programación _dinámico_, creado en 1995 por [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) y estandarizado bajo el nombre de [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript), que utilizamos para desarrollar aplicaciones (no sólo web).
 
 Hoy en día y gracias a [Node](https://nodejs.org), podemos ejecutar código JavaScript en diversos entornos más allá del _browser_, por lo que no estamos limitados simplemente a desarrollar interacciones entre sitios y usuarios (_client-side_, _font-end_) como en los comienzos, sino que podemos utilizarlo como lenguaje _server-side_ o de _back-end_, para programar dispositivos de [IoT y robots](http://johnny-five.io/), [aplicaciones mobile](https://facebook.github.io/react-native/), [machine-learning](https://github.com/tensorflow/tfjs)... inclusive [en el espacio](https://foundation.nodejs.org/wp-content/uploads/sites/50/2017/09/Node_CaseStudy_Nasa_FNL.pdf) (? 🚀
 
 En definitiva, podemos ejecutar código JavaScript en _cualquier dispositivo que incluya un [JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine)_.
 
-A lo largo de eta guía vamos a utilizar principalmente la versión conocida como **ES6/ES2015** (vigente desde Junio de 2015).
+👉 A lo largo de eta guía vamos a utilizar principalmente la versión conocida como **ES6/ES2015** (vigente desde Junio de 2015).
