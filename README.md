@@ -1,6 +1,6 @@
 # JavaScript
 
-Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que utiliza principalmente 3 libros como referencia:
+Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que utiliza principalmente estos 3 libros como referencia:
 
 - [The JS Way](https://github.com/bpesquet/thejsway)
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
