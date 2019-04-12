@@ -15,8 +15,8 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 
 - [Requisitos](#requisitos)
 - [Consultas](#consultas)
-- [Capítulo 1](#https://github.com/undefinedschool/javascript-guide/blob/master/ch1.md)
-- [Capítulo 2](#https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md)
+- [Capítulo 1](https://github.com/undefinedschool/javascript-guide/blob/master/ch1.md)
+- [Capítulo 2](https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md)
 
 ## Requisitos
 
@@ -26,7 +26,7 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 - Crearse una cuenta en [Codewars](https://codewars.com) (te puedes loguear utilizando tu user de GitHub)
 - Unirse al clan `undefined school` en Codewars, seteándolo [en tu perfil](https://github.com/Codewars/codewars.com/wiki/Clans,-Allies-&-Followers#clans)
 - Unirse al [track de JavaScript](https://exercism.io/my/tracks/javascript) en Exercism
-- Paciencia, constancia, perseverancia y sobre todo mucha práctica. A programar se aprende... ¡programando!
+- Paciencia, constancia, perseverancia y sobre todo mucha práctica. **A programar se aprende... ¡programando!**
 
 ## Consultas, dudas, preguntas, sugerencias
 
@@ -38,7 +38,7 @@ Es un lenguaje de programación _dinámico_, creado en 1995 por [Brendan Eich](h
 
 ## Intro
 
-Hoy en día y gracias a [Node](https://nodejs.org), podemos ejecutar código JavaScript en diversos entornos más allá del _browser_, por lo que no estamos limitados simplemente a desarrollar interacciones entre sitios y usuarios (_client-side_, _font-end_) como en los comienzos, sino que podemos utilizarlo como lenguaje _server-side_ o de _back-end_, para programar dispositivos de [IoT y robots](http://johnny-five.io/), [aplicaciones mobile](https://facebook.github.io/react-native/), [machine-learning](https://github.com/tensorflow/tfjs)... inclusive [en el espacio](https://foundation.nodejs.org/wp-content/uploads/sites/50/2017/09/Node_CaseStudy_Nasa_FNL.pdf) (?
+Hoy en día y gracias a [Node](https://nodejs.org), podemos ejecutar código JavaScript en diversos entornos más allá del _browser_, por lo que no estamos limitados simplemente a desarrollar interacciones entre sitios y usuarios (_client-side_, _font-end_) como en los comienzos, sino que podemos utilizarlo como lenguaje _server-side_ o de _back-end_, para programar dispositivos de [IoT y robots](http://johnny-five.io/), [aplicaciones mobile](https://facebook.github.io/react-native/), [machine-learning](https://github.com/tensorflow/tfjs)... inclusive [en el espacio](https://foundation.nodejs.org/wp-content/uploads/sites/50/2017/09/Node_CaseStudy_Nasa_FNL.pdf) (? 🚀
 
 En definitiva, podemos ejecutar código JavaScript en _cualquier dispositivo que incluya un [JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine)_.
 
