@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript - Guía de estudio
 
 Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que publicamos para que cualquiera pueda aprovecharla y aprender 💪
 
