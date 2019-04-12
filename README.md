@@ -13,8 +13,6 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 
 ## Contenido
 
-- [Requisitos](#requisitos)
-- [Consultas](#consultas)
 - [Capítulo 1](https://github.com/undefinedschool/javascript-guide/blob/master/ch1.md)
 - [Capítulo 2](https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md)
 
