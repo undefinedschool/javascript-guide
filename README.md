@@ -1,6 +1,8 @@
 # JavaScript
 
-Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que utiliza principalmente estos 3 libros como referencia:
+Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que publicamos para que cualquiera pueda aprovecharla y aprender 💪
+
+Utilizaremos principalmente estos 3 libros como referencia:
 
 - [The JS Way](https://github.com/bpesquet/thejsway)
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
@@ -30,6 +32,20 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 
 Cualquier inquietud, duda, pregunta o sugerencia (bienvenida!) que tengas al respecto, dejanos un [issue](https://github.com/undefinedschool/javascript-guide/issues).
 
+## Compártelo
+
+Te invitamos a leer [este artículo](https://www.swyx.io/writing/learn-in-public/) y ponerlo en práctica. Básicamente, consiste en que compartas tu aprendizaje con los demás. El medio lo elegís tu. Puede ser a través de alguna red social, blog, o contándole a tus conocidas/os. Podés encontrar otras buenas ideas relacionadas en [este tweet](https://twitter.com/sergiodxa/status/1098938389397688320).
+
+[Comunicar lo que hacemos](https://www.youtube.com/watch?v=YajPEQUVrMU) puede abrirnos muchas puertas.
+
+Existen algunas iniciativas de este estilo como [#100DaysOfCode](https://www.100daysofcode.com/), donde c/u twitea sobre su progreso diario. En nuestro caso serán mucho más que 100 días, pero por algún lado hay que comenzar ;)
+
+## Síguenos
+
+Si te sumás, te agradecemos que nos sigas en [Twitter](https://twitter.com/undefinedSchool) ó [Instagram](https://instagram.com/undefinedschool) así lo compartimos nosotros también!
+
+---
+
 ## **tl;dr**
 
 Es un lenguaje de programación _dinámico_, creado en 1995 por [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) y estandarizado bajo el nombre de [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript), que utilizamos para desarrollar aplicaciones (no sólo web).
@@ -40,10 +56,4 @@ Hoy en día y gracias a [Node](https://nodejs.org), podemos ejecutar código Jav
 
 En definitiva, podemos ejecutar código JavaScript en _cualquier dispositivo que incluya un [JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine)_.
 
-En este curso vamos a utilizar principalmente la versión conocida como **ES6/ES2015** (vigente desde Junio de 2015).
-
-## Clasificación del lenguaje
-
-JavaScript es un lenguaje de programación _[dinámico](https://en.wikipedia.org/wiki/Dynamic_programming_language)_, _[multi-paradigma](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm)_ y de _[alto nivel](https://en.wikipedia.org/wiki/High-level_programming_language)_.
-
-Estos términos se explicarán a lo largo de los capítulos.
+A lo largo de eta guía vamos a utilizar principalmente la versión conocida como **ES6/ES2015** (vigente desde Junio de 2015).
