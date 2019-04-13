@@ -24,3 +24,10 @@ En JavaScript, el **tipo** no está definido en la variable, sino en el **valor*
 [nombres de variables](http://www.asmarterwaytolearn.com/js/4.html)  
 
 > ✨ Utilizar nombres de variables lo más descriptivos posibles
+
+## Declarando una variable
+
+Antes de poder utilizar una variable (es decir, almacenar información en ella) debemos crearla. Esto se conoce como **declarar una variable**. Declarar una variable implica *reservar espacio en la memoria* para almacenar información. Nuestro programa luego podrá leer o escribir en este espacio de memoria al operar con la variable.
+
+> ✨ Utilizar `const`por defecto. Si queremos *explícitamente definir un valor como variable*, utilizar `let`.
+
