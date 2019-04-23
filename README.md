@@ -28,6 +28,10 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 - Unirse al [track de JavaScript](https://exercism.io/my/tracks/javascript) en Exercism
 - Paciencia, constancia, perseverancia y sobre todo mucha práctica. **A programar se aprende... ¡programando!**
 
+## Recomendaciones de buenas prácticas y estilos
+
+A lo largo de esta guía, utilizaremos las buenas prácticas y estilos definidos en [este documento](https://github.com/undefinedschool/best-practices).
+
 ## Consultas, dudas, preguntas, sugerencias
 
 Cualquier inquietud, duda, pregunta o sugerencia (bienvenida!) que tengas al respecto, dejanos un [issue](https://github.com/undefinedschool/javascript-guide/issues).
