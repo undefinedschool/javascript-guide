@@ -7,7 +7,7 @@
 
 ## Nuestro primer prorgama: mostrando mensajes en pantalla
 
-**Ejemplo 1:** 
+### Ejemplo 1: 
 
 ```
 console.log("Hello! This is JavaScript.");
