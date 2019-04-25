@@ -32,6 +32,10 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 
 A lo largo de esta guía, utilizaremos las buenas prácticas y estilos definidos en [este documento](https://github.com/undefinedschool/best-practices).
 
+## No copies y pegues el código!
+
+La forma más efectiva de aprender a programar es... **¡programando!**. No alcanza con leer el código y los ejemplos, tampoco con copiar y pegar. Para *internalizar los conceptos*, escribí el código a mano. Tipeá cada caracter. Tenés que entrenar tu cerebro para *leer y escribir código* y eso no tiene trucos, es práctica.
+
 ## Consultas, dudas, preguntas, sugerencias
 
 Cualquier inquietud, duda, pregunta o sugerencia (bienvenida!) que tengas al respecto, dejanos un [issue](https://github.com/undefinedschool/javascript-guide/issues).
