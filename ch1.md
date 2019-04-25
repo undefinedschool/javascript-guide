@@ -127,3 +127,9 @@ Como referencia, leer la sección sobre comentarios en el artículo _[The Except
 > ✨ Si estamos escribiendo muchos comentarios, tomarlo como señal de que tal vez nuestro código no sea lo suficientemente claro
 
 ## 🚀 [Coding time!](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md#coding-time)
+
+---
+
+[👉 Capítulo 2: Valores, tipos de datos y variables](https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md) 
+
+[🏠 Volver al inicio](https://github.com/undefinedschool/javascript-guide#contenido)
