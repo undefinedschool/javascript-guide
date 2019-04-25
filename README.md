@@ -2,12 +2,6 @@
 
 Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que publicamos para que cualquiera pueda aprovecharla y aprender 💪
 
-Utilizaremos principalmente estos 3 libros como referencia:
-
-- [The JS Way](https://github.com/bpesquet/thejsway)
-- [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
-- [Eloquent JavaScript](http://eloquentjavascript.net)
-
 Además, sugeriremos realizar diversos ejercicios complementarios, de plataformas tales como
 
 - [Exercism](https://exercism.io)
@@ -15,7 +9,7 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 
 ## Contenido
 
-- [Capítulo 1](https://github.com/undefinedschool/javascript-guide/blob/master/ch1.md)
+- [Capítulo 1: Hola Mundo](https://github.com/undefinedschool/javascript-guide/blob/master/ch1.md)
 - [Capítulo 2](https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md)
 
 ## Requisitos
