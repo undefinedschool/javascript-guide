@@ -1,10 +1,5 @@
 # Capítulo 1: Hola Mundo
 
-## Referencias
-
-- [The JS Way -  capítulo 1](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md)
-- [You Don't Know JS: Up & Going - capítulo 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
-
 ## Nuestro primer prorgama: mostrando mensajes en pantalla
 
 ### Ejemplo 1: 
