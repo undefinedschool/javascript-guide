@@ -1,9 +1,4 @@
-# Capítulo 2
-
-## Referencias
-
-- [The JS Way -  capítulo 2](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md)  
-- [You Don't Know JS: Up & Going - capítulo 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md) 
+# Capítulo 2: Valores, tipos de datos y variables 
 
 ## Clasificación del lenguaje
 
