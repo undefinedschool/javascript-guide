@@ -24,58 +24,6 @@ Con este código podemos escribir el famoso _[Hello, World!](https://en.wikipedi
 
 [Exercism: Hello World](https://exercism.io/my/solutions/b1f98d79300a47bc94be6f8b8a03e14a)
 
-## Valores y tipos de datos
-
-Un **valor** es una pieza de información o dato utilizado en un programa. Los valores pueden clasificarse, según su _forma_ en lo que llamamos **tipos**. El tipo de un valor determina sus características y las operaciones que podemos realizar con él.
-
-Cada lenguaje de programación tiene definidos sus valores y tipos propios.
-
-### Number
-
-Utilizamos el tipo **number** para representar valores numéricos, sin distinguir entre números naturales, enteros, reales, etc.
-
-**Ejemplo:** 
-
-```
--1
-```
-
-```
-0
-```
-
-```
-3.14
-```
-
-```
-1/3
-```
-
-### Ejercicio
-
-[number](http://www.asmarterwaytolearn.com/js/3.html)
-
-### String
-
-Representa valores de texto, conocidos como _cadenas de caracteres_. Se escriben entre comillas simples o dobles, sin mezclar.
-
-**Ejemplo:** 
-
-```"JavaScript no es Java"```
-
-```'JavaScript se hizo en 10 días'```
-
-Si queremos _unir_ diferentes strings, utilizamos una operación que se llama _concatenación_, con el operador **+** (el mismo que usamos para sumar números, pero en este caso *no estamos sumando*).
-
-**Ejemplo:** 
-
-```'Java' + 'Script' => 'JavaScript'```
-
-### Ejercicio
-
-[string](http://www.asmarterwaytolearn.com/js/2.html)
-
 ## Estructura de un programa
 
 Vimos que un _programa_ es una lista *finita* y *ordenada* de instrucciones, que le dicen a una computadora qué tareas realizar. Para escribir estas instrucciones utilizamos archivos de texto, lo que se conoce como el _código fuente_ de nuestro programa. Cada línea de código fuente se denomina _línea de código_.
