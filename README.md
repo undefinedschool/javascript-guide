@@ -10,7 +10,7 @@ Además, sugeriremos realizar diversos ejercicios complementarios, de plataforma
 ## Contenido
 
 - [Capítulo 1: Hola Mundo](https://github.com/undefinedschool/javascript-guide/blob/master/ch1.md)
-- [Capítulo 2](https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md)
+- [Capítulo 2: Valores, tipos de datos y variables](https://github.com/undefinedschool/javascript-guide/blob/master/ch2.md)
 
 ## Requisitos
 
