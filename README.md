@@ -1,6 +1,6 @@
 # JavaScript - Guía de estudio
 
-Esta es una guía de estudio sobre JavaScript de [undefined school](https://undefinedschool.io), que publicamos para que cualquiera pueda aprovecharla y aprender 💪
+Esta es una guía de estudio en español sobre JavaScript de [undefined school](https://undefinedschool.io), que publicamos libremente para que cualquiera pueda aprovecharla y aprender 💪
 
 Además, sugeriremos realizar diversos ejercicios complementarios, de plataformas tales como
 
