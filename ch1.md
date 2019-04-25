@@ -1,6 +1,6 @@
 # Capítulo 1: Hola Mundo
 
-## Nuestro primer prorgama: mostrando mensajes en pantalla
+## Nuestro primer programa: mostrando mensajes en pantalla
 
 ### Ejemplo 1: 
 
