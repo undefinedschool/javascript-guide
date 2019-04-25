@@ -15,13 +15,15 @@ console.log("Hello! This is JavaScript.");
 
 `console.log()` muestra por la _consola_ el **valor** que recibe por parámetro. La _consola_ es un entorno que tenemos disponible siempre que utilicemos JavaScript, por ejemplo en las _[DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)_ del browser o en la terminal, si estamos utilizando _Node_. El parámetro que queremos que sea mostrado debe estar ubicado dentro de los paréntesis: `console.log(PARÁMETRO)`. 
 
-En el caso del [ejemplo anterior](#ejemplo-1), estamos mostrando un valor de tipo _string_.
+En el caso del [ejemplo anterior](#ejemplo-1), estamos mostrando un valor de tipo _string_. 
+
+> No te preocupes, más adelante hablaremos sobre qué y cuáles son los *tipos de datos* en JavaScript.
 
 Aparte de _strings_, `console.log()` puede mostrar cualquier tipo de valor que le pasemos, como _objetos_, _funciones_ (su definición o resultado de ejecución), _valores literales_, _booleans_, _numbers_, etc, que veremos más adelante.
 
 Con este código podemos escribir el famoso _[Hello, World!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)_, el clásico ejemplo que se utiliza cuando se comienza a aprender un nuevo lenguaje de programación. 
 
-!Ya diste tu primer paso, felicitaciones!
+**Ya diste tu primer paso, ¡felicitaciones!** 🚀
 
 ### Ejercicio
 
